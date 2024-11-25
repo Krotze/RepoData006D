@@ -1,0 +1,51 @@
+{
+  "profesor": [
+    {
+      "id": 0,
+      "nombre": "Juan",
+      "apellido": "Gomez",
+      "contraseña": "duoc1234",
+      "materia": "Historia",
+      "correo": "jgomez@profesores.cl",
+      "isactive": true
+    },
+    {
+      "id": 1,
+      "nombre": "Pedro",
+      "apellido": "Capó",
+      "contraseña": "musica1234",
+      "materia": "Musica",
+      "correo": "pcapo@profesores.cl",
+      "isactive": true
+    },
+    {
+      "id":2,
+      "nombre": "Marta",
+      "apellido": "Labra",
+      "contraseña": "leng1234",
+      "materia": "Lenguaje",
+      "correo": "mlabra@profesores.cl",
+      "isactive": true
+    }
+  ],
+  "alumnos": [
+    {
+      "id": 0,
+      "nombre": "María López",
+      "correo": "maria.lopez@example.com",
+      "asistio": true
+    },
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "correo": "juan.perez@example.com",
+      "asistio": false
+    },
+    {
+      "id": 2,
+      "nombre": "Ana Gómez",
+      "correo": "ana.gomez@example.com",
+      "asistio": true
+    }
+  ]
+}
